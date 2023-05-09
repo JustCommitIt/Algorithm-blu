@@ -1,1 +1,5 @@
-# Algorithm-blu
+# Programmers Python Algorithm Lecture
+
+|날짜|주제|내용|
+|:--:|:--:|:--:|
+|2023-05-08|자료형 ~ 연산자|[학습 페이지](https://github.com/JustCommitIt/Algorithm-blu/blob/main/ProgrammersPythonAlgorithmLecture/StudyNote/20230508.md)|
